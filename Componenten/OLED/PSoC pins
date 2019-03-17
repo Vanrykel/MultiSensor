@@ -1,0 +1,13 @@
+PSoC pins
+
+PSoC 4200 pins : MISO = 3.1
+                 MOSI = 3.0
+                 SCK = 0.6
+                 CS = 3.4
+                 DC = 2.6
+                 
+PS0C 4200M pins : MISO = 6.1
+                  MOSI = 6.0
+                  SCK = 6.2
+                  CS = 2.7
+                  DC = 0.2

@@ -1,0 +1,7 @@
+PSoC pins
+
+PSoC 4200 : SCL = 4.0 
+            SDA = 4.1
+            
+PSoC 4200M : SCL = 4.0 
+             SDA = 4.1           

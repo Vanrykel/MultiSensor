@@ -1,0 +1,7 @@
+PSoC pins
+
+PSoC 4200 pins : CMOD = 4.2
+                 Prox = 0.7
+                 
+PS0C 4200M pins : CMOD = 4.2
+                  Prox = 1.0
