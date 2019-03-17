@@ -1,6 +1,9 @@
 # MultiSensor
-MultiSensor Hogeschool PXL Opdracht 
 
-In deze mappen vind je de files van de Multisensor. Elk component staat apart met de code van de PSoC 4200. Ik verwacht dat I2C en SPI gekend is. Verder vind je ook de eagle files.
+MultiSensor shield for the psoc4 pioneer kit that is also arduino compatible.
+- The document folder contains the paper and 'plan van aanpak' for this project. The latter document checks the parts of the project that were finished, which is useful for finding which component 
+needs further researching.
+- The hardware folder contains the eagle files.
+- The software folder contains the software code in seperate folders according to the component of the shield and an order list. The order list contains fragile components that were double ordered called SAFE and an component list for a minimum price value calles FIXED.
 
-Als je te werk gaat met de PSoC 4200 en de communicatie lukt niet. Probeer dan de PSoC firmware te updaten. Dit doe je via PSoC Programmer. Deze app heb je normaal gezien meegedownload bij PSoC Creator
+[Shield](Shield.jpg)
